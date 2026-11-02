@@ -1,4 +1,4 @@
-### Hi there, I'm Thameera Bamunuge 👋
+Hi there, I'm Thameera Bamunuge 👋
 
 🎓 HND in Software Engineering Student @ NIBM
 💻 Passionate about building web applications, Java solutions, and creative software projects.
