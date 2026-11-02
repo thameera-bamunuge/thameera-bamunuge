@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Thameera Bamunuge 👋
 
-<!--
-**thameera-bamunuge/thameera-bamunuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HND in Software Engineering Student @ NIBM
+💻 Passionate about building web applications, Java solutions, and creative software projects.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tech Stack
+- **Languages:** Java, Python, C++, C#, JavaScript, HTML5, CSS3, SQL
+- **Frameworks & Tools:** Git, GitHub, MySQL, VS Code, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- 🚀 Pursuing Higher National Diploma in Software Engineering @ NIBM
+- 📚 Deepening concepts in OOP, Data Structures & Databases
+- 🌱 Exploring Web Development & Software Development
+- 🤝 Open to collaborating on open-source projects & internships
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/thameera-bamunuge-1a780b445
+- Email: thameerabamunuge02@gmail.com
+- Location: Colombo, Sri Lanka
